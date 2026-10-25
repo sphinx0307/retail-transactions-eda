@@ -75,7 +75,7 @@ Launch Jupyter:
 jupyter notebook
 ```
 
-Open `17_02_ASG1(1).ipynb` and run the cells in order after making sure the dataset path points to your local CSV file.
+Open `retail_transaction_insights.ipynb` and run the cells in order after making sure the dataset path points to your local CSV file.
 
 ## Scope and limitations
 
